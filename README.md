@@ -1,1 +1,1 @@
-# customer_analysis
+# customer_segmentation_analysis
